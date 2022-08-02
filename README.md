@@ -1,6 +1,6 @@
 - #Sobre mim 
 - ## Meu nome é Gabriela
-- ### Meu email de contato é gabriela.isis.dutra@escola.pr.gov.br
+- ### Meu email de contato é gabriela.isis.dutra@escola.pr.gov.br(gabriela.isis.dutra@escola.pr.gov.br)
 - estou estudando linguagens de programação JavaScrip,CSS e Scratch
 
 
